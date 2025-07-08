@@ -16,7 +16,7 @@ torch
 
 ## ⬆️ Deployment
 This app is deployed publicly on Hugging Face Spaces:
-https://huggingface.co/spaces/YOUR_USERNAME/grammar-agent
+https://huggingface.co/spaces/UsamaNisar/grammar-agent
 
 ## 🛠️ Development
 - To run locally:
